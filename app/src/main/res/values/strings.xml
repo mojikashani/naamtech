@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Naamtech Test</string>
+    <string name="label_input">Input</string>
+    <string name="label_output">Output</string>
+    <string name="label_challenge_1">Challenge 1</string>
+    <string name="label_challenge_2">Challenge 2</string>
+    <string name="label_challenge_3">Challenge 3</string>
+</resources>
